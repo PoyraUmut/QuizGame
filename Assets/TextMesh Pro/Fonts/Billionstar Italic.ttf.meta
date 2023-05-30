@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 772436076ab4bc54c9c3438ae0877e94
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Billionstar
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 678723559e63a094d9238ddec109fbe2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
